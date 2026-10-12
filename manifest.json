@@ -1,0 +1,16 @@
+{
+  "name": "Dead Village",
+  "short_name": "Dead Village",
+  "description": "First-person stealth zombie survival with gyroscope aiming.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#120f0c",
+  "theme_color": "#262a33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
